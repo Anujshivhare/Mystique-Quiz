@@ -1,0 +1,14 @@
+.quiz-container {
+  max-width: 900px;
+  min-width: 800px;
+  margin: 20px;
+  padding: 30px;
+  background-color: #34495e;
+  border-radius: 8px;
+  box-shadow: black;
+  transition: box-shadow 0.3s;
+}
+
+.quiz-container:hover {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,16 @@
+.score-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.score-heading {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: rgb(255, 255, 255);
+}
+
+.score-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #5fa647;
+}

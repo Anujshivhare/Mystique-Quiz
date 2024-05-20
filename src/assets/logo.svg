@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Body -->
+  <ellipse cx="12" cy="16" rx="8" ry="10" fill="#000" />
+
+  <!-- Head -->
+  <circle cx="12" cy="6" r="4" fill="#000" />
+
+  <!-- Eyes -->
+  <circle cx="10" cy="5" r="1" fill="#fff" />
+  <circle cx="14" cy="5" r="1" fill="#fff" />
+
+  <!-- Beak -->
+  <polygon points="12,6 11,7 13,7" fill="#FFA500" />
+
+  <!-- Feet -->
+  <rect x="10" y="18" width="2" height="4" fill="#FFA500" />
+  <rect x="12" y="18" width="2" height="4" fill="#FFA500" />
+</svg>

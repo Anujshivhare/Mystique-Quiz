@@ -1,0 +1,56 @@
+.stats-container {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 20px auto;
+}
+
+.score {
+  font-size: 18px;
+  border: rgb(35, 34, 34) 1px solid;
+  padding: 10px 5px;
+  width: 100px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.heading {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.stats-list {
+  list-style-type: none;
+  padding: 2px;
+  margin-bottom: 5px;
+}
+
+.list-item {
+  margin-bottom: 10px;
+  transition: transform 0.3s ease-in-out;
+  text-align: center;
+}
+
+.list-item:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.resume-button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.resume-button:hover {
+  background-color: #45a049;
+}
